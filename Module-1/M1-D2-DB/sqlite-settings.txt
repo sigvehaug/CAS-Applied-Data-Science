@@ -1,0 +1,6 @@
+Put the following lines into ~/.sqliterc
+
+.headers on
+.nullvalue NULL
+.mode column
+pragma foreign_keys = on;
