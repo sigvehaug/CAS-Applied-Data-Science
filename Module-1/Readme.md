@@ -1,5 +1,7 @@
 # CAS-Applied-Data-Science
 
+The link to the course on the university learning platform Ilias is https://ilias.unibe.ch/goto_ilias3_unibe_crs_2134348.html
+
 Module 1 material. These are the notebooks and other files needed for the exercises. Slides used as introductions are on google:
 
 - D1 https://docs.google.com/presentation/d/1SKnwdE7AXwT-Kq8mUby5aLFGCj8D4kLDLYQ7I8icADA/edit?usp=sharing
