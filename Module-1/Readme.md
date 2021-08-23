@@ -1,5 +1,8 @@
 # CAS-Applied-Data-Science
 
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sigvehaug/CAS-Applied-Data-Science/Module-1)
+
 The link to the course on the university learning platform Ilias is https://ilias.unibe.ch/goto_ilias3_unibe_crs_2134348.html
 
 Module 1 material. These are the notebooks and other files needed for the exercises. Slides used as introductions are on google:
