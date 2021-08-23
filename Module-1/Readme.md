@@ -1,6 +1,5 @@
 # CAS-Applied-Data-Science
 
-
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sigvehaug/CAS-Applied-Data-Science/Module-1)
 
 Module 1 material. These are the notebooks and other files needed for the exercises. Slides used as introductions are on google:
@@ -11,4 +10,4 @@ Module 1 material. These are the notebooks and other files needed for the exerci
 
 Exercises with geopandas and mysql didn't work for several people due to dependcy conflicts etc. Installing and resolving conflicts via conda actually took a couple of hours. 
 
-S. Haug, 2020-08-21
+S. Haug, 2021-08-21
