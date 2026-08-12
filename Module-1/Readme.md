@@ -18,32 +18,32 @@ Online: https://unibe-ch.zoom.us/j/67578508172?pwd=zqaVBcW0kurfDDNgd7Qm6W8r3Wxdp
 
 The Zoom Link is available till September 30 and be used by students anytime.
 
-Language: English. 
-Participants: Max 24. 
-Lecturers: PD Dr. Sigve Haug, Dr. Sebastian Heinrich, Prof. Dr. Kai Brünnler. 
-Responsible: PD Dr. Sigve Haug. 
+Language: English<br>
+Participants: Max 24<br> 
+Lecturers: PD Dr. Sigve Haug, Dr. Sebastian Heinrich, Prof. Dr. Kai Brünnler<br> 
+Responsible: PD Dr. Sigve Haug<br> 
 
 ## Schedule (in progress during the Module)
 Wednesday<br>
 09:00 [Introduction](https://docs.google.com/presentation/d/1ABMQ6ybcvNZzhT7VFzy2vKcunzcgBouCn77DrU6VlA4/edit?usp=sharing) (Sigve)<br> 
-10:00 Data Science Project Planning (?). 
-10:45 Break. 
-11:15 Data management with Python and Pandas (Sigve). 
-12:30 Lunch. 
-13:30 Data management with Python and Pandas (Sigve). 
-17:00 End. 
+10:00 Data Science Project Planning (?)<br>
+10:45 Break<br>
+11:15 Data management with Python and Pandas (Sigve)<br> 
+12:30 Lunch<br> 
+13:30 Data management with Python and Pandas (Sigve)<br>
+17:00 End<br>
 
-Thursday  
-09:00 Data visualisation (Sigve). 
-12:30 Lunch. 
-13:30 Project clarifications and Data management when using APIs (Sigve). 
-17:00 End. 
+Thursday<br>  
+09:00 Data visualisation (Sigve)<br> 
+12:30 Lunch<br> 
+13:30 Project clarifications and Data management when using APIs (Sigve)<br>
+17:00 End<br>
 
-Friday. 
-09:00 Webscraping (S. Heinrich). 
-12:30 Lunch. 
-13:30 MySQL and Databases (Kai Brünnler). 
-17:00 Apero. 
+Friday<br>
+09:00 Webscraping (S. Heinrich)<br> 
+12:30 Lunch<br>
+13:30 MySQL and Databases (Kai Brünnler)<br> 
+17:00 Apero<br> 
 
 S. Haug, 2026-08-12
 
