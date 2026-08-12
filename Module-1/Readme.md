@@ -12,9 +12,9 @@ Above are the notebooks and other files needed for the exercises. Slides used as
 Exercises with geopandas and mysql didn't work for several people due to dependcy conflicts etc. Installing and resolving conflicts via conda actually took a couple of hours. 
 
 ## Practical Information
-Time: 2026-08-19 to 2026-08-21 09:00 - 17:00.     
-Location: Mittelstrasse 43, room 116. 
-Online: https://unibe-ch.zoom.us/j/67578508172?pwd=zqaVBcW0kurfDDNgd7Qm6W8r3Wxdpc.1 .  
+Time: 2026-08-19 to 2026-08-21 09:00 - 17:00<br>     
+Location: Mittelstrasse 43, room 116 <br>
+Online: https://unibe-ch.zoom.us/j/67578508172?pwd=zqaVBcW0kurfDDNgd7Qm6W8r3Wxdpc.1<br>
 
 The Zoom Link is available till September 30 and be used by students anytime.
 
@@ -24,8 +24,8 @@ Lecturers: PD Dr. Sigve Haug, Dr. Sebastian Heinrich, Prof. Dr. Kai Brünnler.
 Responsible: PD Dr. Sigve Haug. 
 
 ## Schedule (in progress during the Module)
-Wednesday
-09:00 [Introduction](https://docs.google.com/presentation/d/1ABMQ6ybcvNZzhT7VFzy2vKcunzcgBouCn77DrU6VlA4/edit?usp=sharing) (Sigve). 
+Wednesday<br>
+09:00 [Introduction](https://docs.google.com/presentation/d/1ABMQ6ybcvNZzhT7VFzy2vKcunzcgBouCn77DrU6VlA4/edit?usp=sharing) (Sigve)<br> 
 10:00 Data Science Project Planning (?). 
 10:45 Break. 
 11:15 Data management with Python and Pandas (Sigve). 
