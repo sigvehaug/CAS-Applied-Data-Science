@@ -12,7 +12,7 @@ Exercises with geopandas and mysql didn't work for several people due to dependc
 
 Time: 2026-08-19 to 2026-08-21 09:00 - 17:00
 Location: Mittelstrasse 43, room 116
-Online: [xln url="https://unibe-ch.zoom.us/j/67578508172?pwd=zqaVBcW0kurfDDNgd7Qm6W8r3Wxdpc.1"]https://unibe-ch.zoom.us/j/67578508172?pwd=zqaVBcW0kurfDDNgd7Qm6W8r3Wxdpc.1[/xln]
+Online: https://unibe-ch.zoom.us/j/67578508172?pwd=zqaVBcW0kurfDDNgd7Qm6W8r3Wxdpc.1
 
 The Zoom Link is available till September 30 and be used by students anytime.
 
