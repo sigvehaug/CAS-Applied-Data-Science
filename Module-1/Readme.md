@@ -10,4 +10,4 @@ Module 1 material. These are the notebooks and other files needed for the exerci
 
 Exercises with geopandas and mysql didn't work for several people due to dependcy conflicts etc. Installing and resolving conflicts via conda actually took a couple of hours. 
 
-S. Haug, 2021-08-21
+S. Haug, 2026-08-12
