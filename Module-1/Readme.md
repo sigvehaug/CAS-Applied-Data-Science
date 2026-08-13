@@ -26,20 +26,22 @@ Responsible: PD Dr. Sigve Haug<br>
 ## Schedule (in progress during the Module)
 Wednesday (Sigve and Matteo)<br>
 09:00 [Introduction](https://docs.google.com/presentation/d/1ABMQ6ybcvNZzhT7VFzy2vKcunzcgBouCn77DrU6VlA4/edit?usp=sharing) <br>
-09:20 What is data, science, data science and Quality?<br>
-10:00 Data management with Python and Pandas<br>
+09:20 What is data, science, data science and data quality?<br>
+10:00 Data management with Python and Pandas (M1-D1-DM)<br>
 10:45 Break<br>
-11:15 Data management with Python and Pandas<br> 
+11:15 Data management with Python and Pandas (M1-D1-DM)<br>
+12:00 Summary Exercise<br>
 12:30 Lunch<br>
-13:30 Data Models and Conceptual Design<br> 
-14:45 Break<br>
-15:15 (Matteo)<br>
+13:30 Data visualisation - Plotting with Python (M1-D2-DM) (Matteo)<br> 
+15:00 Break<br>
+15:30 Intermezzo - Data Acquisition with agentic AI (Matteo)<br>
 17:00 End<br>
 
 Thursday (Sigve)<br>  
 09:00 Data visualisation<br> 
 12:30 Lunch<br> 
-13:30 Project clarifications and Data management with API<br>
+13:30 Data Models and Conceptual Design
+Project clarifications and Data management with API<br>
 17:00 End<br>
 
 Friday<br>
