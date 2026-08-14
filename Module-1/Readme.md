@@ -2,15 +2,6 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sigvehaug/CAS-Applied-Data-Science)
 
-## Module 1 material
-Above are the notebooks and other files needed for the exercises. Slides used as introductions are on google:
-
-- D1 https://docs.google.com/presentation/d/1SKnwdE7AXwT-Kq8mUby5aLFGCj8D4kLDLYQ7I8icADA/edit?usp=sharing
-- D2 https://docs.google.com/presentation/d/1HhRIIVq46DyVNm68WeTqr_vZvOgSMWBZa2XDwWNH8H4/edit
-- D3 https://docs.google.com/presentation/d/11A6DzwqBM-e6PXvSCI0urOb2Hl4-fPXrGmSKAtz2mas/edit?usp=sharing
-
-Exercises with geopandas and mysql didn't work for several people due to dependcy conflicts etc. Installing and resolving conflicts via conda actually took a couple of hours. 
-
 ## Practical Information
 Time: 2026-08-19 to 2026-08-21 09:00 - 17:00<br>     
 Location: Mittelstrasse 43, room 116 <br>
@@ -26,7 +17,7 @@ Responsible: PD Dr. Sigve Haug<br>
 ## Schedule (in progress during the Module)
 Wednesday (Sigve and Matteo)<br>
 09:00 [Introduction](https://docs.google.com/presentation/d/1ABMQ6ybcvNZzhT7VFzy2vKcunzcgBouCn77DrU6VlA4/edit?usp=sharing) <br>
-09:20 What is data, science, data science and data quality?<br>
+09:20 What is data, science, data science and data quality? [slides]([https://docs.google.com/presentation/d/1AUwpZIuFXgV9YEztgFjvExryW09xqDo2u-4V8JDRq2M/edit?usp=sharing)<br>
 10:00 Data management with Python and Pandas (M1-D1-DM)<br>
 10:45 Break<br>
 11:15 Data management with Python and Pandas (M1-D1-DM)<br>
@@ -49,6 +40,9 @@ Friday<br>
 12:30 Lunch<br>
 13:30 MySQL and Databases (Kai)<br> 
 17:00 Apero<br> 
+
+- D2 https://docs.google.com/presentation/d/1HhRIIVq46DyVNm68WeTqr_vZvOgSMWBZa2XDwWNH8H4/edit
+- D3 https://docs.google.com/presentation/d/11A6DzwqBM-e6PXvSCI0urOb2Hl4-fPXrGmSKAtz2mas/edit?usp=sharing
 
 ## Readings
 For this CAS program book reading is not necessary. AI coding assistants based on Large Language Model, like Gemini on Google Colab or GitHub Copilot, can summarize and code most things as long as you can explain what you want. However, sometimes it is good to look into a well structured archaic book for overview, refreshment or convience and pleasure. The following free online books cover most of the content in Module 1 and 3. 
