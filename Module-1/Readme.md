@@ -23,16 +23,21 @@ Wednesday (Sigve and Matteo)<br>
 11:15 Data management with Python and Pandas (M1-D1-DM)<br>
 12:00 Summary Exercise<br>
 12:30 Lunch<br>
-13:30 Data visualisation - Plotting with Python (M1-D2-DM) (Matteo)<br> 
+13:30 Data management with Python and Pandas (M1-D1-DM) (Matteo)<br>
+      If time:Data visualisation - Plotting with Python (M1-D2-DM) (Matteo)<br> 
 15:00 Break<br>
 15:30 Intermezzo - Data Acquisition with agentic AI (Matteo)<br>
 17:00 End<br>
 
 Thursday (Sigve)<br>  
-09:00 Data visualisation<br> 
+09:00 Questions from yesterday <br>
+09:30 Data visualisation (slides linked above)<br>
+10:00 Plotting with Python (M1-D2-DM)<br>
+10:45 Break <br>
+11:15 Plotting with Python (M1-D2-DM)<br>
 12:30 Lunch<br> 
 13:30 Data Models and Conceptual Design
-Project clarifications and Data management with API<br>
+      Project clarifications and Data management with API<br>
 17:00 End<br>
 
 Friday<br>
