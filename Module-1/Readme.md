@@ -17,7 +17,7 @@ Responsible: PD Dr. Sigve Haug<br>
 ## Schedule (in progress during the Module)
 Wednesday (Sigve and Matteo)<br>
 09:00 [Introduction](https://docs.google.com/presentation/d/1ABMQ6ybcvNZzhT7VFzy2vKcunzcgBouCn77DrU6VlA4/edit?usp=sharing) <br>
-09:20 What is data, science, data science and data quality? [slides]([https://docs.google.com/presentation/d/1AUwpZIuFXgV9YEztgFjvExryW09xqDo2u-4V8JDRq2M/edit?usp=sharing)<br>
+09:20 What is data, science, data science and data quality? [slides](https://docs.google.com/presentation/d/1AUwpZIuFXgV9YEztgFjvExryW09xqDo2u-4V8JDRq2M/edit?usp=sharing)<br>
 10:00 Data management with Python and Pandas (M1-D1-DM)<br>
 10:45 Break<br>
 11:15 Data management with Python and Pandas (M1-D1-DM)<br>
