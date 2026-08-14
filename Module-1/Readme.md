@@ -11,7 +11,7 @@ The Zoom Link is available till September 30 and be used by students anytime.
 
 Language: English<br>
 Participants: Max 24<br> 
-Lecturers: PD Dr. Sigve Haug, Dr. Sebastian Heinrich, Prof. Dr. Kai Brünnler<br> 
+Lecturers: PD Dr. Sigve Haug, Dr. Sebastian Heinrich, Prof. Dr. Kai Brünnler, MSc Matteo Boi<br> 
 Responsible: PD Dr. Sigve Haug<br> 
 
 ## Schedule (in progress during the Module)
@@ -46,7 +46,6 @@ Friday<br>
 13:30 MySQL and Databases (Kai)<br> 
 17:00 Apero<br> 
 
-- D2 https://docs.google.com/presentation/d/1HhRIIVq46DyVNm68WeTqr_vZvOgSMWBZa2XDwWNH8H4/edit
 - D3 https://docs.google.com/presentation/d/11A6DzwqBM-e6PXvSCI0urOb2Hl4-fPXrGmSKAtz2mas/edit?usp=sharing
 
 ## Readings
