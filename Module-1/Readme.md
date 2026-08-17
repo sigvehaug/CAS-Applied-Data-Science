@@ -45,8 +45,6 @@ Friday<br>
 13:30 MySQL and Databases (Kai)<br> 
 17:00 Apero<br> 
 
-- D3 https://docs.google.com/presentation/d/11A6DzwqBM-e6PXvSCI0urOb2Hl4-fPXrGmSKAtz2mas/edit?usp=sharing
-
 ## Readings
 For this CAS program book reading is not necessary. AI coding assistants based on Large Language Model, like Gemini on Google Colab or GitHub Copilot, can summarize and code most things as long as you can explain what you want. However, sometimes it is good to look into a well structured archaic book for overview, refreshment or convience and pleasure. The following free online books cover most of the content in Module 1 and 3. 
 
