@@ -30,14 +30,14 @@ Wednesday (Sigve and Matteo)<br>
 
 Thursday (Sigve)<br>
 09:00 Questions from yesterday <br>
-09:30 Data visualisation ([slides](https://docs.google.com/presentation/d/1AUwpZIuFXgV9YEztgFjvExryW09xqDo2u-4V8JDRq2M/edit?usp=sharing))<br>
+09:30 Data visualisation [slides](https://docs.google.com/presentation/d/1AUwpZIuFXgV9YEztgFjvExryW09xqDo2u-4V8JDRq2M/edit?usp=sharing)<br>
 10:00 Plotting with Python (M1-D2-DM)<br>
 10:45 Break <br>
 11:15 Plotting with Python (M1-D2-DM)<br>
 12:30 Lunch<br> 
-13:30 Data Models<br> 
+13:30 Data Models<br>[slides](https://docs.google.com/presentation/d/1AUwpZIuFXgV9YEztgFjvExryW09xqDo2u-4V8JDRq2M/edit?usp=sharing) 
 15:00 Break<br>
-15:30 Conceptual Design Reports and Project Clarifications<br>
+15:30 Conceptual Design Reports and Project Clarifications<br>[slides](https://docs.google.com/presentation/d/1AUwpZIuFXgV9YEztgFjvExryW09xqDo2u-4V8JDRq2M/edit?usp=sharing)
 17:00 End<br>
 
 Friday<br>
