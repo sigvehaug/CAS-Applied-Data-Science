@@ -35,8 +35,9 @@ Thursday (Sigve)<br> 
 10:45 Break <br>
 11:15 Plotting with Python (M1-D2-DM)<br>
 12:30 Lunch<br> 
-13:30 Data Models and Conceptual Design
-      Project clarifications and Data management with API<br>
+13:30 Data Models 
+15:00 Break
+15:30 Conceptual Design Reports and Project Clarifications<br>
 17:00 End<br>
 
 Friday<br>
