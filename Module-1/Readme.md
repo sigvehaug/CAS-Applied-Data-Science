@@ -15,9 +15,9 @@ Lecturers: PD Dr. Sigve Haug, Dr. Sebastian Heinrich, Prof. Dr. Kai Brünnler, M
 Responsible: PD Dr. Sigve Haug<br> 
 
 ## Schedule (in progress during the Module)
-Wednesday (Sigve and Matteo)<br>
+Wednesday (Sigve and Matteo) [slides](https://docs.google.com/presentation/d/1AUwpZIuFXgV9YEztgFjvExryW09xqDo2u-4V8JDRq2M/edit?usp=sharing)<br>
 09:00 [Introduction](https://docs.google.com/presentation/d/1ABMQ6ybcvNZzhT7VFzy2vKcunzcgBouCn77DrU6VlA4/edit?usp=sharing) <br>
-09:20 What is data, science, data science and data quality? [slides](https://docs.google.com/presentation/d/1AUwpZIuFXgV9YEztgFjvExryW09xqDo2u-4V8JDRq2M/edit?usp=sharing)<br>
+09:20 What is data, science, data science and data quality?<br>
 10:00 Data management with Python and Pandas (M1-D1-DM)<br>
 10:45 Break<br>
 11:15 Data management with Python and Pandas (M1-D1-DM)<br>
@@ -30,14 +30,14 @@ Wednesday (Sigve and Matteo)<br>
 
 Thursday (Sigve)<br>
 09:00 Questions from yesterday <br>
-09:30 Data visualisation [slides](https://docs.google.com/presentation/d/1AUwpZIuFXgV9YEztgFjvExryW09xqDo2u-4V8JDRq2M/edit?usp=sharing)<br>
+09:30 Data visualisation<br>
 10:00 Plotting with Python (M1-D2-DM)<br>
 10:45 Break <br>
 11:15 Plotting with Python (M1-D2-DM)<br>
 12:30 Lunch<br> 
-13:30 Data Models [slides](https://docs.google.com/presentation/d/1AUwpZIuFXgV9YEztgFjvExryW09xqDo2u-4V8JDRq2M/edit?usp=sharing)<br> 
+13:30 Data Models<br> 
 15:00 Break<br>
-15:30 Conceptual Design Reports and Project Clarifications [slides](https://docs.google.com/presentation/d/1AUwpZIuFXgV9YEztgFjvExryW09xqDo2u-4V8JDRq2M/edit?usp=sharing)<br>
+15:30 Conceptual Design Reports and Project Clarifications <br>
 17:00 End<br>
 
 Friday<br>
