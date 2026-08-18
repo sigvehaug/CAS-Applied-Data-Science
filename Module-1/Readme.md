@@ -6,6 +6,7 @@
 Time: 2026-08-19 to 2026-08-21 09:00 - 17:00<br>     
 Location: Mittelstrasse 43, room 116 <br>
 Online: https://unibe-ch.zoom.us/j/67578508172?pwd=zqaVBcW0kurfDDNgd7Qm6W8r3Wxdpc.1<br>
+Code: epbm-qzhx
 
 The Zoom Link is available till September 30 and be used by students anytime.
 
